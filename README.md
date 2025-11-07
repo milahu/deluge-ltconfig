@@ -10,7 +10,7 @@ If you have an older version of Deluge, please use v0.3.1.
 
 WARNING: Modify settings at your own risk!
 
-For information about each setting, see the libtorrent [manual](http://www.rasterbar.com/products/libtorrent/manual.html#session-customization).
+For information about each setting, see the [libtorrent manual](https://www.libtorrent.org/reference-Settings.html).
 
 This plugin has a special additional preset from base ltConfig by zakkarry/ambipro - you can read about all "relevant" libtorrent settings as well as the preset itself and it's settings at [this post on Deluge's forums](https://forum.deluge-torrent.org/viewtopic.php?t=56921)
 NOTE: Older versions of libtorrent may have different setting names.
